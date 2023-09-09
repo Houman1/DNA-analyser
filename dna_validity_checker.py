@@ -1,7 +1,7 @@
 import logging
 
 
-class DnaValidityChecker:
+class DNAValidityChecker:
 
     logging.basicConfig(filename='dna_validity_checker.py', level=logging.DEBUG)
 
