@@ -17,12 +17,7 @@ def count_bases():
 
 
 
-#Transcribe DNA
-def Transcribe_DNA():
-    DNA_Seq = input("please input your DNA sequence:").upper()
-    #pass it through the function that it checks the DNA seq only has ACGT and removes spaces then run following code.
-    DNA_Seq = DNA_Seq.replace("T","U")
-    print(DNA_Seq)
+
 
 
 #Complementary DNA strand
